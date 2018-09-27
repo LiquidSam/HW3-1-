@@ -20,7 +20,9 @@ namespace ConsoleApp2
             rkv = Math.Pow(r,st);
             s = p * rkv;
             Console.WriteLine("Площадь круга равна "+s);
-            
+
+
+  
 
         }
     }
