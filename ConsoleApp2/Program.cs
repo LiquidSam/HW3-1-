@@ -13,12 +13,13 @@ namespace ConsoleApp2
             const double p = 3.14;
             double r;
             double s;
-            double square;
+            double rkv;
+            int st = 2;
             Console.WriteLine("Введите радиус круга:");
-            r = Console.Read();
-            square = Math.Pow(r, 2);
-            s = p * square;
-            Console.WriteLine("Площадь круга равна" + s);
+            r = double.Parse(Console.ReadLine());
+            rkv = Math.Pow(r,st);
+            s = p * rkv;
+            Console.WriteLine("Площадь круга равна "+s);
             
 
         }
