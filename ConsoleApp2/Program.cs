@@ -21,8 +21,7 @@ namespace ConsoleApp2
             s = p * rkv;
             Console.WriteLine("Площадь круга равна "+s);
 
-            Console.WriteLine("123");
-  
+            
 
         }
     }
