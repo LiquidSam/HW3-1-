@@ -22,7 +22,7 @@ namespace ConsoleApp2
             Console.WriteLine("Площадь круга равна "+s);
 
 
-  
+  //123
 
         }
     }
